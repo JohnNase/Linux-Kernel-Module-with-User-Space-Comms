@@ -13,4 +13,3 @@ This project demonstrates the development of a simple Linux kernel module that i
 - **Make**: For automating the build process.
 - **Ubuntu/WSL**: Development environment.
 
-## Project Structure
